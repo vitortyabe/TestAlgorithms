@@ -52,4 +52,11 @@ Finally, the number of operations required is defined by the subtraction of 20 f
 
 * Algorithm6: The function created to return the total of characters is using a while statement that is regularly updating a counter until it fins the end of the input string.
 
-* Query4: 
+* Query4: the relevant statements for this query are:
+  * IIF: apply a rule when retrieving a value based on data from a different table
+  * BETWEEN: retrieve the value associated inside an specific range
+  * ORDER BY: retrieve the originated table, in primary level being ordered by grades "Nota" and secondly by name "Nome".
+
+* Query7: the relevant statements for this query are:
+  * UNION: simply joins the result of the two table withput considering interdependency of primary keys between them.
+  * DISTINCT: retrieve the tables values removing duplicates
