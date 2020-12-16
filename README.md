@@ -31,6 +31,10 @@ OR
 
 2) Open the Solutions file in your Visual Studio environment, press right-click on the project you want to run and choose "Set as Startup Project". Finally, press F5 and for the Windows Console APplication to start.
 
+OR
+
+3) It's also possible to run the executable for each algorithm located on the Algorithms root directory in the Release folder.
+
 * To run queries
 1) Open the access database files, select the query available, on Views select SQL View and, finally, press Run to see the results.
 
