@@ -29,7 +29,7 @@ As reference, see below a mapping that associates the algorithms and queries wit
 
 OR
 
-2) Open the Solutions file in your Visual Studio environment, press right-click on the project you want to run and choose "Set as Startup Project". Finally, press F5 and for the Windows Console APplication to start.
+2) Open the Solutions file in your Visual Studio environment, press right-click on the project you want to run and choose "Set as Startup Project". Finally, press F5 and for the Windows Console Application to start.
 
 OR
 
