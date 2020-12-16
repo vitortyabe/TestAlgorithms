@@ -1,0 +1,8 @@
+﻿  Algorithm3.cpp
+C:\Users\vitor\Desktop\AlgorithmsSMS\Algorithms\Algorithm3\Algorithm3.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vitor\Desktop\AlgorithmsSMS\Algorithms\Algorithm3\Algorithm3.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Algorithm3.vcxproj -> C:\Users\vitor\Desktop\AlgorithmsSMS\Algorithms\Release\Algorithm3.exe
