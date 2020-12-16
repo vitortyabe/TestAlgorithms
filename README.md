@@ -7,7 +7,7 @@
 
 ## General Info
 
-This repository stores the proposed solutions for each exercise as part of a test to evaluate Programming and SQL skills.
+This repository stores the proposed solutions for a set of exercises as part of a test to evaluate Programming and SQL skills.
 
 The algorithms were developed in C++ by using Visual Studio 2019 environment and the SQL queries were implemented on Microsoft Access as testing environment.
 
