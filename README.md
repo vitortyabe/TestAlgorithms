@@ -1,9 +1,9 @@
 # TestAlgorithms
 
 ## Table of Contents
-*[General Info]
-*[How to Run It]
-*[Comments and Useful Information]
+*[General Info](#general-info)
+*[How to Run It](#how-to-run-it)
+*[Comments and Useful Information](#comments-and-useful-information)
 
 ## General Info
 
