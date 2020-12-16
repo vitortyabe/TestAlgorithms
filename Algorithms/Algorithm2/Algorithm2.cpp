@@ -10,19 +10,22 @@ int main()
 
     for (int i = 1; i < 101; i++)
     {
-        
+        //Evaluate if i is divisible by 3 and 5
         if ((i % 3) == 0 && (i % 5) == 0)
         {
             std::cout << "FooBaa" << "\n";
         }
+        //Evaluate if i is divisible by 3
         else if ((i % 3) == 0)
         {
             std::cout << "Foo" << "\n";
         }
+        //Evaluate if i is divisible by 5
         else if ((i % 5) == 0)
         {
             std::cout << "Baa" << "\n";
         }
+        //If it doesn't apply, simply print i
         else
         {
             std::cout << i << "\n";
