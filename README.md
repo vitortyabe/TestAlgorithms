@@ -7,13 +7,13 @@
 
 ## General Info
 
-This repository stores the proposed solution for each exercise as part of a test to evaluate Programming and SQL skills.
+This repository stores the proposed solutions for each exercise as part of a test to evaluate Programming and SQL skills.
 
 The algorithms were developed in C++ by using Visual Studio 2019 environment and the SQL queries were implemented on Microsoft Access as testing environment.
 
-For each algorithm it was created a project on Visual Studio 2019 that contains the main() function and will be running the solution on a Windows Console Aplication. The projects can be opened individualy on Visual Studio, but there is also a Solution file on the root directory which contains the three projects available to run. In case you choose to open the Solution file in a Visual Studio environment, remember to right-click on the project you want to run and select the option "Set as Startup Project" before running the application.
+For each algorithm it was created a project on Visual Studio 2019 that contains the main() function and will be running the solution on a Windows Console Aplication. The projects can be opened individualy on Visual Studio and there is also a Solution file on the root directory which contains the three projects available to run. In case you choose to open the Solution file in a Visual Studio environment, remember to right-click on the project you want to run and select the option "Set as Startup Project" before running the application.
 
-Regards to the SQL Queries, on the root directory you can find the folders Query4 and Query7 which stores the SQL files. On each folder there is also a Microsoft Access database that was created based on the wording of each SQL problem. The databases stores the tables that were introduced and also the queries, the same o the SQL files, that can be aplied to see the results on the Microsoft Access interface.
+Regards to the SQL Queries, on the root directory you can find the folders Query4 and Query7 which stores the SQL files. On each folder there is also a Microsoft Access database that was created based on the examples. The databases stores the tables that were introduced and also the queries, the same o the SQL files, that can be aplied to see the results on the Microsoft Access interface.
 
 As reference, see below a mapping that associates the algorithms and queries with each problem:
 
@@ -26,15 +26,16 @@ As reference, see below a mapping that associates the algorithms and queries wit
 ## How to Run It
 * To run algorithms
 1) Open the Project file located on the folder that has the same name as the algorithm
+
 OR
+
 2) Open the Solutions file in your Visual Studio environment, press right-click on the project you want to run and choose "Set as Startup Project". Finally, press F5 and for the Windows Console APplication to start.
 
 * To run queries
 1) Open the access database files, select the query available, on Views select SQL View and, finally, press Run to see the results.
 
-
 ## Comments ad Useful Information
-The statements below introduces more information on the approaches that were choosen for each problem solving:
+The statements below introduces more information on the approaches that were choosen to solve each problem:
 
 * Algorithm2: The approach is simply using the operator % to identify when a number is divisible by 3, 5 and 15
 
@@ -48,9 +49,9 @@ The total of operations to turn string s on string t, without saving any operati
 
 Comparing the strings index by index, it's known that on index number 2 the strings start to become different. In that case: two removal operation can be avoided and two addition operations can be avoided.
 
-Finally, the number of operations required is defined by the subtraction of 20 from 4 which is 16, which can interpreted that the k number must be at least equal to 16 in order to generatea positive "sim" outcome.
+Finally, the number of operations required is defined by the subtraction of 20 from 4 which is 16 and can be interpreted that the k number must be at least equal to 16 in order to generate an affirmative ("sim") outcome.
 
-* Algorithm6: The function created to return the total of characters is using a while statement that is regularly updating a counter until it fins the end of the input string.
+* Algorithm6: The function created to return the total of characters is using a while statement that is regularly updating a counter until it finds the end of the input string.
 
 * Query4: the relevant statements for this query are:
   * IIF: apply a rule when retrieving a value based on data from a different table
