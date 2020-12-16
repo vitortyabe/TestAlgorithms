@@ -71,18 +71,16 @@ int main()
     int k;
     string valueT, valueS, outcome;
 
-    //Introduce string s value
-    std::cout << "Introduce a value to the string s: " << std::endl;
-    //Getline function is supporting inputs which contains blank spaces
+    //Introduce string s, string t and number of operation k
+    std::cout << "Introduce string s, string t and the number of operations k. Once the value is introduced you may press Enter to introduce the new value: " << std::endl;
+
+    //Getline function is supporting inputs which contains blank spaces. Take string s value
     std::getline(std::cin, valueS);
 
-    //Introduce string t value
-    std::cout << "Introduce a value to the string t: " << std::endl;
-    //Getline function is supporting inputs which contains blank spaces
+    //Getline function is supporting inputs which contains blank spaces. Take string t value
     std::getline(std::cin, valueT);
 
-    //Introduce number of operations required
-    std::cout << "Please, introduce the number of operations k allowed: " << std::endl;
+    //Take the total of operations k value
     std::cin >> k;
 
     //Evaluate
