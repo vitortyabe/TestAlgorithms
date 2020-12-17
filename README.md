@@ -60,7 +60,7 @@ Finally, the number of operations required is defined by the subtraction of 20 f
 * Query4: the relevant statements for this query are:
   * IIF: apply a rule when retrieving a value based on data from a different table
   * BETWEEN: retrieve the value associated inside an specific range
-  * ORDER BY: retrieve the originated table, in primary level being ordered by grades "Nota" and secondly by name "Nome".
+  * ORDER BY: retrieve the originated table, in primary level being ordered by grades "Nota" and secondly by name "Nome". For NULL values it brings the variable Valor on the ascending order.
 
 * Query7: the relevant statements for this query are:
   * UNION: simply joins the result of the two table withput considering interdependency of primary keys between them.
