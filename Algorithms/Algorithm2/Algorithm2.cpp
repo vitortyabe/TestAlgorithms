@@ -1,7 +1,6 @@
 // Algorithm2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // 
 
-// stach teste 2
 
 #include <iostream>
 
