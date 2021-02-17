@@ -1,5 +1,5 @@
 // Algorithm3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// teste3
+//
 
 #include <iostream>
 #include <string>
